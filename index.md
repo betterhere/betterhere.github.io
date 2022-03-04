@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Zhuofan Liao's HOMEPAGE
 
-You can use the [editor on GitHub](https://github.com/betterhere/betterme.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can also explore [Zhuofan Liao's homepage in CSUST](https://www.csust.edu.cn/jtxy/info/1349/20483.htm) in Chinese.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Major Projects Completed or Undertaken
 
-### Markdown
+Dr. Liao directed and participated in projects from National Natural Science Foundation of China (NSFC), Science and Technology Progress and Innovation Project of Transport Department of Hunan Province, Outstanding Youth Project of Education Department, and University Scientific Research and Teaching Reform Project.
+1.	Researches on the relay deployment for the mobile internet networks (National Natural Science Foundation of China, Youth Project, No. 61402056), 2015.1 - 2017.12, RMB$ 260,000, PI.
+2.	Researches on the internationalization of graduate education under the background of "Double First-class" construction: A case study of computer major (Postgraduate teaching reform in Hunan Province, Key Projects, No. 2019JGZD057), 2019 - 2021, RMB$ 50,000, PI.
+3.	Researches on key technologies of energy efficient data acquisition in mobile sensor networks (National Natural Science Foundation of China, General Project, No.62072056), 2021.01 - 2.24.12, RMB$ 570.000, ranked 4th, Participant.
+4.	Performance analysis and optimization of the arbitration network structure based on queuing theory (National Natural Science Foundation of China, general project, No. 61972055), 2020.1 - 2023.12, RMB$ 600.000, ranked 4th, Participant.
+5.	Research on key technologies of portable power transmission in multi-hop wireless networks (National Natural Science Foundation of China, youth project, No. 61802030), 2019.1 - 2021.12, RMB$ 240,000, ranked 2nd, Participant.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -30,7 +34,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/betterhere/betterme.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/betterhere/github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
